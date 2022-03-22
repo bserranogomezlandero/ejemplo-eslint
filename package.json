@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "lint": "eslint src/**/*"
+  },
+  "dependencies": {
+    "eslint": "^8.6.0"
+  }
+}
